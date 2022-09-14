@@ -1,6 +1,3 @@
-# Project 4 - Recipe Hub
-
-https://recipehub-mern.herokuapp.com/
 
 ## To foodies, created by foodies..
 
@@ -28,10 +25,6 @@ This app aims to provide users with a wide range of food recipes. They can searc
 5. User should be able to view ALL the collated ingredients for her groceries shopping
 
 ---
-
-### Wireframe
-
-https://www.figma.com/file/6bSOr0sZfFYQcvAPBzAaLs/Project-4?node-id=0%3A1
 
 ## TECH STACK
 
@@ -67,17 +60,3 @@ https://www.figma.com/file/6bSOr0sZfFYQcvAPBzAaLs/Project-4?node-id=0%3A1
 - Dotenv
 - Express-session
 - Express-validator
-
-## Contribution to Project
-
-| Sophia   | Kalya      | Kok Yong |
-| -------- | ---------- | -------- |
-| Frontend | Full Stack | Frontend |
-
-### Contribution by all:
-
-- Model Schema
-- Testing / identify bugs / bug fixing / squashing
-- Seeding data
-- CSS Styling
-- Brain juice, sweat and almost tears. No blood.
